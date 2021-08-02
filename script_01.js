@@ -124,7 +124,7 @@ function getString(firstName,familyName)
     const outputStr = "Hallo " + firstName + gap + familyName + "!";
     return outputStr;       // --> Daten werden nach der Bearbeitung wieder zurück zum Call geliefert
 
-    console.log("hi");      // return beendet die Funktion
+    // console.log("hi");      // return beendet die Funktion
 }
 
     // 2. Job: string output
