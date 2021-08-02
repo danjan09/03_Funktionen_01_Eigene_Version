@@ -11,7 +11,7 @@
 
 // test();                          // Funktionsaufruf (call) | caller
 
-
+ 
 
 /***** Funktionen 02 *****/
 // 2a. Parametrisierung + Datenübergabe von INNEN
@@ -35,6 +35,8 @@
 // ausgabeNamen();
 
 // console.log(firstName);     // Fehler --> lokal !
+
+
 
 // 2b. Parametrisierung + Datenübergabe von AUSSEN
 
@@ -75,7 +77,7 @@
 // ausgabeNamenParam();
 
 
-/***** Funktionen 02 *****/
+
 // 2c. Mehrere Parameter
 
 // function ausgabeNamenParams(firstName, familyName)
@@ -108,6 +110,7 @@
 // }
 
 // ausgabeNamenParams("Max", "Mütze");
+
 
 
 // 3b. Mehrere Parameter
